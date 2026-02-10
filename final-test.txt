@@ -1,0 +1,8 @@
+# Final test with repository-level push protection enabled
+# This should trigger an alert when bypassed
+
+# New Slack webhook - never used before
+SLACK_TEST=https://hooks.slack.com/services/T11111111/B11111111/abcdefghijklmnopqrstuvwx11
+
+# GitHub test token again
+GITHUB_TEST=secret_scanning_ab85fc6f8d7638cf1c11da812da308d43_abcde
